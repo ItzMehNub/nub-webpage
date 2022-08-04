@@ -4,4 +4,3 @@
 will definitely look wacky at certain parts <br>
 somewhat-actively being worked on (mostly locally) <br>
 i need a better name for myself <br>
-i might just private this repo altogether, since it's front end after all, and is accessible through just `View page source (Ctrl+U)` 
